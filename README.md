@@ -1,4 +1,4 @@
-# Repository of projects for the Yandex.Praktikum course — “System Analyst”
+# Repository of projects for the Yandex.Praktikum course - “System Analyst”
 Repository for projects completed as part of the System Analyst professional training course by Yandex.Practicum
 
 ## Contacts
